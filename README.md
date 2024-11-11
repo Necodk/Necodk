@@ -24,3 +24,6 @@ I'm a data analyst passionate about transforming raw data into actionable insigh
 ---
 
 Thanks for visiting! Feel free to explore my projects or reach out if you’d like to collaborate on data-driven solutions. 🚀
+
+
+<artifact> id: amplitude-analysis name: Amplitude Analysis type: image content: ![Amplitude Analysis](https://d41chssnpqdne.cloudfront.net/user_upload_by_module/chat_bot/files/7944949/LJ8CibxOHSV3XLdF.png?Expires=1732559724&Signature=P73mr8BeXpu9vtUUhq6Lgqxy-43VtLFPlM5XHN8yTYtNL50D8WQNlKRRy1U3m1Vx2w2NP8xRmgGFDw1Qe0Zw3Nu7iz3h8iRnjwENOYa9l~Z1GipddWoQOUZSwPcGVdRvNE2882jptsK6S35-A9R0iAJ8n824ec2D8nhAuaMuXU-1hxKAdnf5wFtykEO6qVWC2QUdTfFWnwlLCgHjTdGGqu0CLw3ZxJztm2mNTUOldy0AtufVXxWSMmT-RC~nk3RTAmCu48sdnFgzvnLxz~aPFSM0yBbkQg9Qdqyk9SCZeRAHJ86Lx21XkoEsj7pcvNLayn4W6hBZrZ-B4PhjFBs-Mw__&Key-Pair-Id=K3USGZIKWMDCSX) </artifact>
