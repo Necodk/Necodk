@@ -25,5 +25,3 @@ I'm a data analyst passionate about transforming raw data into actionable insigh
 
 Thanks for visiting! Feel free to explore my projects or reach out if you’d like to collaborate on data-driven solutions. 🚀
 
-
-id: amplitude-analysis name: Amplitude Analysis type: image content: ![Amplitude Analysis]ClickMe)
